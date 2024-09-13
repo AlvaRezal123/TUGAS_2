@@ -92,6 +92,11 @@ Penjelasan Singkat :
     }
 }
 ```
+Penjelasan Singkat :
+- Kelas journal_details juga mewarisi dari kelas database.
+  
+- Metode TampilkanData($detail_id = null) mirip dengan yang ada di kelas journals, tetapi untuk tabel journal_details.
+  
 
 
 ✅ 4) Class Journal
