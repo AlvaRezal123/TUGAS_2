@@ -9,12 +9,13 @@ Kelas : 🎓 TI 2B
 NIM    : 🆔 230202039 
 
 # 📌 Projek
+### _Object-Oriented Programming (OOP) dengan basis data MySQL_
+
 
 ![alt text](https://github.com/AlvaRezal123/TUGAS_2/blob/main/mysql.png)
 
 # 🌟 Daftar Isi :
 
-### _Object-Oriented Programming (OOP) dengan basis data MySQL_
 - [TUGAS 2](https://github.com/AlvaRezal123/TUGAS_2/tree/main/tugas2_)
 
 # 📘 Pembahasan projek :
