@@ -8,6 +8,10 @@ Kelas : 🎓 TI 2B
 
 NIM    : 🆔 230202039 
 
+# 📌 Projek
+
+![alt text](https://github.com/AlvaRezal123/TUGAS_2/blob/main/mysql.png)
+
 # 🌟 Daftar Isi :
 - [TUGAS 2](https://github.com/AlvaRezal123/TUGAS_2/tree/main/tugas2_)
 
