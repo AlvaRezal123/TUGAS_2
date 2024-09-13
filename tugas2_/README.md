@@ -442,23 +442,31 @@ Menampilkan data dari array $JD ke dalam tabel HTML.
 ![alt]()
 
 ## Tampilan Output
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/2.koneksi.output.PNG)
 
 ## Journal
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/1%2Cjournal.PNG)
 
 ## Journal Output
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/2.journals.output.PNG)
 
 ## Journal_details
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/1%2Cjournal_details.PNG)
 
 ## Journal_details Output
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/2.journals_details.output.PNG)
 
 ## Journal_1
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/1%2Cjournal_1.PNG)
 
 ## Journal_1 Output
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/2.journals_1.output.PNG)
 
 ## Journal_details_1
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/1%2Cjournal_details_1.PNG)
 
 ## Journal_details_1 Output
-
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/2.journals_details_1.output.PNG)
 
 
 
