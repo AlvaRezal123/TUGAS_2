@@ -2,6 +2,8 @@
 _Object-Oriented Programming (OOP) dengan basis data MySQL_
 ## 📚 Pembahasan :
 berikut merupakan script kodingan serta pembahasan singkat nya (yang penting untuk anda ketahui)  berupa point-point :
+### Tampilan Database dan Tabel beserta isi nya :
+
 ### A. koneksi :
 1) Class Database
 ```sh
@@ -28,7 +30,7 @@ Penjelasan Singkat :
 - Atribut public $link untuk menyimpan objek koneksi dan $error untuk menyimpan pesan kesalahan.
 - Konstruktor __construct() membuat koneksi menggunakan mysqli_connect(). Jika koneksi gagal, pesan kesalahan disimpan di $error.
 
-2) Kelas Journals
+2) Class Journals
 ```sh
 class journals extends database {
     public function TampilkanData($journal_id = null) {
@@ -54,13 +56,13 @@ class journals extends database {
 ```
 Penjelasan Singkat :
 - Kelas journals mewarisi dari kelas database, sehingga dapat menggunakan koneksi database.
-- 
+
 - Metode TampilkanData($journal_id = null) menampilkan data dari tabel journals.
-- 
+  
 - Jika $journal_id diberikan, query akan menampilkan data spesifik berdasarkan ID; jika tidak, akan menampilkan semua data.
-- 
+  
 - Data hasil query diambil menggunakan mysqli_fetch_array() dan disimpan dalam array.
-3) Journal_Details
+3) Class Journal_Details
   ```sh
   class journal_details extends database {
     public function TampilkanData($detail_id = null) {
@@ -84,7 +86,7 @@ Penjelasan Singkat :
     }
 }
 ```
-4) Kelas Journal
+4) Class Journal
 ```sh
 class journal extends database {
     public function TampilkanData($journal_id = null) {
