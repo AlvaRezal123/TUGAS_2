@@ -437,6 +437,29 @@ Penjelasan Singkat :
   
 Menampilkan data dari array $JD ke dalam tabel HTML.
 
+### 📎 Lampiran
+## Tampilan
+![alt]()
+
+## Tampilan Output
+
+## Journal
+
+## Journal Output
+
+## Journal_details
+
+## Journal_details Output
+
+## Journal_1
+
+## Journal_1 Output
+
+## Journal_details_1
+
+## Journal_details_1 Output
+
+
 
 
   
