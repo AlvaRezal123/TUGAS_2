@@ -2,7 +2,12 @@
 _Object-Oriented Programming (OOP) dengan basis data MySQL_
 ## 📚 Pembahasan :
 berikut merupakan script kodingan serta pembahasan singkat nya (yang penting untuk anda ketahui)  berupa point-point :
-### Tampilan Database dan Tabel beserta isi nya :
+### Tampilan Database Tabel beserta isi nya :
+- Tabel Journals :
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/journal_tabel.PNG)
+- Tabel Journals_Details :
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/journal_detailsss.PNG)
+
 ### Pengaplikasian nya ke OOP :
 ### A. koneksi :
 ✅ 1) Class Database
