@@ -438,8 +438,10 @@ Penjelasan Singkat :
 Menampilkan data dari array $JD ke dalam tabel HTML.
 
 ### 📎 Lampiran
+## Koneksi
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/koneksi.PNG)
 ## Tampilan
-![alt]()
+![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/tampilan.PNG)
 
 ## Tampilan Output
 ![alt](https://github.com/AlvaRezal123/TUGAS_2/blob/main/tugas2_/Screenshot/2.koneksi.output.PNG)
